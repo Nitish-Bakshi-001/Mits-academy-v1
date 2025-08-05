@@ -209,7 +209,7 @@ export default function CourseDetailPage() {
                   <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 lg:p-8 border border-blue-100 shadow-lg">
                     <h3 className="text-xl lg:text-2xl font-bold text-black mb-4 lg:mb-6 flex items-center">
                       <Target className="h-6 w-6 lg:h-7 lg:w-7 text-blue-600 mr-3" />
-                      Prerequisites
+                      Prerequisites 
                     </h3>
                     <ul className="space-y-2 lg:space-y-3">
                       <li className="flex items-start">
@@ -267,7 +267,7 @@ export default function CourseDetailPage() {
                   variant="outline"
                   className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 lg:px-12 py-3 lg:py-4 rounded-xl font-semibold bg-white shadow-lg hover:shadow-xl transition-all w-full sm:w-auto text-lg"
                 >
-                  Explore More AI Courses
+                  Explore More Courses
                 </Button>
               </div>
             </div>
@@ -309,7 +309,7 @@ export default function CourseDetailPage() {
                 <ul className="space-y-2 lg:space-y-3 text-sm lg:text-base text-gray-700">
                   <li className="flex items-center">
                     <Check className="h-4 w-4 text-green-500 mr-3 flex-shrink-0" />
-                    <span>Lifetime access to all content</span>
+                    <span>One on One Mentorship sessions</span>
                   </li>
                   <li className="flex items-center">
                     <Check className="h-4 w-4 text-green-500 mr-3 flex-shrink-0" />
@@ -325,7 +325,7 @@ export default function CourseDetailPage() {
                   </li>
                   <li className="flex items-center">
                     <Check className="h-4 w-4 text-green-500 mr-3 flex-shrink-0" />
-                    <span>30-day money-back guarantee</span>
+                    <span>Intership Support</span>
                   </li>
                 </ul>
               </div>
@@ -335,7 +335,7 @@ export default function CourseDetailPage() {
                 Enroll Now
               </Button>
 
-              <p className="text-center text-sm text-gray-500">Join 12,847+ students already enrolled</p>
+              <p className="text-center text-sm text-gray-500">Join! 500+ students already enrolled</p>
             </div>
           </div>
         </div>
